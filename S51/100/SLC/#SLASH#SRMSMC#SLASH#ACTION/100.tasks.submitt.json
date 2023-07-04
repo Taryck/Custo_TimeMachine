@@ -1,0 +1,1 @@
+{"MANDT":"100","ID":"tasks.submitt","NAME":"/SRMSMC/FND_CMN_OTR/TASK_LIST_SUBMITTED","CONTROLLER_NAME":"../activity_management/submitted.do","CONTROLLER_ID":"controller.tasks.submit","VIEW_NAME":"../activity_management/task_list.inc","LOIO":"74DF3427C7D3433D9FADC81EE089AE6B"}

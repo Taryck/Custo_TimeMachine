@@ -1,0 +1,1 @@
+{"MANDT":"100","ID":"task.detail.view","NAME":"/SRMSMC/FND_CMN_OTR/TASK_DETAILS","CONTROLLER_NAME":"../activity_management/task_view.do","CONTROLLER_ID":"controller.tasks.detail.view","VIEW_NAME":"../activity_management/task_view.inc","LOIO":"74DF3427C7D3433D9FADC81EE089AE6B"}
