@@ -1,1 +1,0 @@
-{"MANDT":"100","ID":"failure.authentication","NAME":"/SRMSMC/FND_CMN_OTR/AUTH_FAILURE_HEAD","CONTROLLER_NAME":"../framework/auth_failure.sub","CONTROLLER_ID":"controller.failure.authenticatio","VIEW_NAME":"../framework/auth_failure.inc","LOIO":"74DF3427C7D3433D9FADC81EE089AE6B"}

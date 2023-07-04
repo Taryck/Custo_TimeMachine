@@ -1,1 +1,0 @@
-{"MANDT":"100","ID":"cert.detail.create","NAME":"/SRMSMC/FND_CMN_OTR/CERTIFICATE_UPLOAD","CONTROLLER_NAME":"../company/certificate_create.do","CONTROLLER_ID":"controller.cert.detail.create","VIEW_NAME":"../company/certificate_create.inc","LOIO":"74DF3427C7D3433D9FADC81EE089AE6B"}
